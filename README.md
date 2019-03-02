@@ -1,4 +1,5 @@
-todo-list
+# # To Do List # #
+[todo-list.txt]
 
 Document to keep track of things that have been identified as "something to do" either 
 through organic development in threads and personal conversations, or items selected
@@ -9,4 +10,5 @@ graduated beyond the point of speculation/research/consideration and has largely
 presented as something that will become a project.
 
 Optimally, discussion regarding items on this list would be more practical in
-nature
+nature and implementative in nature and targeted less towards theoretical or 
+conceptual.
