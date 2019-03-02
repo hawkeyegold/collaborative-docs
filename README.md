@@ -1,4 +1,4 @@
-# Overview # <br />
+# Overview
 [overview.txt](overview.txt)
 
 Document to generally state the purpose and overall scope of this repository as 
@@ -8,7 +8,7 @@ be edited accordingly if the scope or nature of the repository itself were to
 expand, or otherwise evolve.
 
 
-# To Do List # <br />
+# To Do List <br />
 [todo-list.txt](todo-list.txt)
 
 Document to keep track of things that have been identified as "something to do" either 
