@@ -47,6 +47,6 @@ Document to list completed projects/initiatives et al.
 
 # Idea Archive Folder
 
-Sort of a "mad scientist" Folder for ideas that for the time being would serve to
+Sort of a "mad scientist" folder for ideas that for the time being would serve to
 clutter the existing workspace but would be good to preserve.  Ideas here need not 
 have a related project, and in fact most likely won't.
