@@ -8,7 +8,7 @@ be edited accordingly if the scope or nature of the repository itself were to
 expand, or otherwise evolve.
 
 
-# To Do List <br />
+# To Do List
 [todo-list.txt](todo-list.txt)
 
 Document to keep track of things that have been identified as "something to do" either 
@@ -24,7 +24,7 @@ nature and implementative in nature and targeted less towards theoretical or
 conceptual.
 
 
-# Ideas Files # <br />
+# Ideas Files
 [ideas-pat.txt](ideas-pat.txt) / [ideas-dave.txt](ideas-dave.txt)
 
 Documents to just hold random ideas, musings, intrigues that generally related 
@@ -32,21 +32,21 @@ to the stated overview of this project or any of the tracked projects related to
 to it, as listed in the overview.
 
 
-# Doing List # <br />
+# Doing List
 [doing-list.txt](doing-list.txt)
 
 Document to track what either of us is currently working on, in relationship to 
 this initiative.
 
 
-# Completed List # <br />
+# Completed List
 [completed-list.txt](completed-list.txt)
 
 Document to list completed projects/initiatives et al.
 
 
-# Idea Archive Folder # <br />
+# Idea Archive Folder
 
-Sort of a mad scientist Folder for ideas that for the time being would serve to
+Sort of a "mad scientist" Folder for ideas that for the time being would serve to
 clutter the existing workspace but would be good to preserve.  Ideas here need not 
 have a related project, and in fact most likely won't.
