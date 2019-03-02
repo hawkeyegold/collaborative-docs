@@ -1,5 +1,5 @@
 #Overview#<br />
-[./overview.txt](overview.txt)
+[overview.txt](overview.txt)
 
 Document to generally state the purpose and overall scope of this repository as 
 a whole.  This document will likely be fairly static, though it might also serve
@@ -9,7 +9,7 @@ expand, or otherwise evolve.
 
 
 #To Do List#<br />
-[./todo-list.txt](todo-list.txt)
+[todo-list.txt](todo-list.txt)
 
 Document to keep track of things that have been identified as "something to do" either 
 through organic development in threads and personal conversations, or items selected
@@ -25,7 +25,7 @@ conceptual.
 
 
 #Ideas Files#<br />
-[./ideas-pat.txt](ideas-pat.txt) / [./ideas-dave.txt](ideas-dave.txt)
+[ideas-pat.txt](ideas-pat.txt) / [ideas-dave.txt](ideas-dave.txt)
 
 Documents to just hold random ideas, musings, intrigues that generally related 
 to the stated overview of this project or any of the tracked projects related to
@@ -33,14 +33,14 @@ to it, as listed in the overview.
 
 
 #Doing List#<br />
-[./doing-list.txt](doing-list.txt)
+[doing-list.txt](doing-list.txt)
 
 Document to track what either of us is currently working on, in relationship to 
 this initiative.
 
 
 #Completed List#<br />
-[./completed-list.txt](completed-list.txt)
+[completed-list.txt](completed-list.txt)
 
 Document to list completed projects/initiatives et al.
 
