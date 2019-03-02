@@ -1,5 +1,5 @@
-# # To Do List # #
-[todo-list.txt]
+#To Do List#
+[./todo-list.txt](todo-list.txt)
 
 Document to keep track of things that have been identified as "something to do" either 
 through organic development in threads and personal conversations, or items selected
