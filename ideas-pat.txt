@@ -1,1 +1,12 @@
-An idea!
+
+MonoGame Functionality
+
+Functionality We Have
+Panel class
+
+Functionality That Would Likely Be Useful
+- Rendering text easily
+- Text panels.  These can be combined with the UI Panel class.
+- Textboxes
+- Bar meters - simple but fairly versatile would be nice
+
