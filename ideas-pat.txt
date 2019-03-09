@@ -10,3 +10,7 @@ Functionality That Would Likely Be Useful
 - Textboxes
 - Bar meters - simple but fairly versatile would be nice
 
+
+Here is a sample MonoGame platformer game project where there is object to tile
+collision detection with what I believe is the kind of handling I am looking for.
+https://github.com/MonoGame/MonoGame.Samples/tree/develop/Platformer2D
