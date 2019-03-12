@@ -2,7 +2,10 @@
 MonoGame Functionality
 
 Functionality We Have
-Panel class
+- Panel class
+- Mouse/Keyboard state class
+- Sound examples
+
 
 Functionality That Would Likely Be Useful
 - Rendering text easily
